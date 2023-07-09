@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Music-App",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Music-App"
+	}
+}

@@ -385,7 +385,7 @@ header .songside nav .search{
 header .songside nav .search::before{
     content: '';
     position: absolute;
-    width: 100%;
+    width: 65%;
     height: 100%;
     border-radius: 20px;
     background: rgb(184, 184, 184,.1);
@@ -404,20 +404,20 @@ header .songside nav .search input{
     color: #fff;
     font-size: 12px;
 }
-header .songside nav .user{
+/* header .songside nav .user{
   position: relative;
   width: 30px;
   height: 30px;
-   border-radius: 50%;
-   cursor: pointer;
+  border-radius: 50%;
+  cursor: pointer;
 }
 header .songside nav .user img{
     position:absolute;
     width: 30px;
     height: 30px;
-     border-radius: 50%;
+    border-radius: 50%;
     box-shadow: 2px 2px 8px #131312;
-}
+} */
  
 header .songside .content{
     width: 90%;
