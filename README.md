@@ -3,6 +3,8 @@ My Portfolio Project
 Link to my deployed project: https://sensational-dodol-7cb73a.netlify.app/
 
 My project name is : Egonic (Music player)
+![Music app image](https://github.com/Johnfavour/Music-App/assets/113635549/95e0d802-b178-4f5c-b2d0-c2983089660c)
+
 
 Welcome to my Music Website, a vibrant online platform where music enthusiasts can connect, discover, and share their love for music. Whether you're a fan, aspiring musician, or industry professional, this website is designed to provide an immersive and engaging experience.
 
