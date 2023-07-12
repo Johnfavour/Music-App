@@ -25,6 +25,7 @@ Database: MongoDB
 Additional Libraries: React.js, Redux, Axios
 
 AUTHORS: Chukwuemeka Favour Mesoma 
+
 Email address: favourjohn851@gmail.com
 
 Enjoy the journey through the magical world of music on Egonic(Music player).
