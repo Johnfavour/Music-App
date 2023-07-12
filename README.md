@@ -13,6 +13,7 @@ Stay updated with the latest music news, industry trends, and upcoming events.
 Purchase merchandise and support your favorite artists through our online store.
 
 You can access the website through your web browser at http://localhost:3000 with the deployed link.
+
 Technologies Used
 Front-end: HTML, CSS, JavaScript
 
