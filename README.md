@@ -1,6 +1,7 @@
 # Music-App
 My Portfolio Project
 Link to my deployed project: https://sensational-dodol-7cb73a.netlify.app/
+
 My project name is : Egonic (Music player)
 
 Welcome to my Music Website, a vibrant online platform where music enthusiasts can connect, discover, and share their love for music. Whether you're a fan, aspiring musician, or industry professional, this website is designed to provide an immersive and engaging experience.
@@ -14,7 +15,7 @@ Purchase merchandise and support your favorite artists through our online store.
 
 You can access the website through your web browser at http://localhost:3000 with the deployed link.
 
-Technologies Used
+Technologies Used:
 Front-end: HTML, CSS, JavaScript
 
 Technologies yet to be used:
