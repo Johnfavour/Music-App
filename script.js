@@ -1,10 +1,6 @@
 const music = new Audio('Tatiana.mp3');
 //music.play();
 
-
-
-
-
 const songs = [
     {
         id: '1',
