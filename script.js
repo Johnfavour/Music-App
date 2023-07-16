@@ -134,21 +134,6 @@ const makeAllPlays = () =>{
     })
 }
 
-// let fileName;
-// let poster_master = document.getElementById('poster_master');
-// let title = document.getElementById('title');
-// Array.from(document.getElementsByClassName('playListPlay')).forEach((element)=>{
-//     element.addEventListener('click', (e)=>{
-//         fileName = e.target.id;
-//         makeAllPlays();
-//         e.target.classList.remove('bi-play-circle-fill');
-//         e.target.classList.add('bi-pause-circle-fill');
-//         music.src = `audio/${fileName}.mp3`;
-//         poster_master = `images/${fileName}.jpg`;
-//         music.play();
-//     })
-// })
-
 let fileName;
 let poster_master = document.getElementById('poster_master');
 let title = document.getElementById('title');
