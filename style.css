@@ -404,21 +404,7 @@ header .songside nav .search input{
     color: #fff;
     font-size: 12px;
 }
-/* header .songside nav .user{
-  position: relative;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-  cursor: pointer;
-}
-header .songside nav .user img{
-    position:absolute;
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    box-shadow: 2px 2px 8px #131312;
-} */
- 
+
 header .songside .content{
     width: 90%;
     height: 30%;
@@ -586,7 +572,9 @@ header .songside .popularartists .item li img{
     position:absolute;
 }
 
-
+.hidden {
+    display: none;
+  }
 
 
 
